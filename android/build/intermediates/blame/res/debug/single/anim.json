@@ -1,0 +1,66 @@
+[
+    {
+        "merged": "/Users/gregorygl/workspace/react-native/qatestlab/LabArchives/node_modules/react-native-cookies/android/build/intermediates/res/merged/debug/anim/abc_shrink_fade_out_from_bottom.xml",
+        "source": "/Users/gregorygl/.android/build-cache/187075ca6c2d62d7ef5960a669f442657e67703c/output/res/anim/abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "/Users/gregorygl/workspace/react-native/qatestlab/LabArchives/node_modules/react-native-cookies/android/build/intermediates/res/merged/debug/anim/abc_slide_in_bottom.xml",
+        "source": "/Users/gregorygl/.android/build-cache/187075ca6c2d62d7ef5960a669f442657e67703c/output/res/anim/abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "/Users/gregorygl/workspace/react-native/qatestlab/LabArchives/node_modules/react-native-cookies/android/build/intermediates/res/merged/debug/anim/fade_out.xml",
+        "source": "/Users/gregorygl/.android/build-cache/0475d79c4912b442c1777d746be0973c7ff448dc/output/res/anim/fade_out.xml"
+    },
+    {
+        "merged": "/Users/gregorygl/workspace/react-native/qatestlab/LabArchives/node_modules/react-native-cookies/android/build/intermediates/res/merged/debug/anim/fade_in.xml",
+        "source": "/Users/gregorygl/.android/build-cache/0475d79c4912b442c1777d746be0973c7ff448dc/output/res/anim/fade_in.xml"
+    },
+    {
+        "merged": "/Users/gregorygl/workspace/react-native/qatestlab/LabArchives/node_modules/react-native-cookies/android/build/intermediates/res/merged/debug/anim/abc_fade_out.xml",
+        "source": "/Users/gregorygl/.android/build-cache/187075ca6c2d62d7ef5960a669f442657e67703c/output/res/anim/abc_fade_out.xml"
+    },
+    {
+        "merged": "/Users/gregorygl/workspace/react-native/qatestlab/LabArchives/node_modules/react-native-cookies/android/build/intermediates/res/merged/debug/anim/catalyst_push_up_in.xml",
+        "source": "/Users/gregorygl/.android/build-cache/0475d79c4912b442c1777d746be0973c7ff448dc/output/res/anim/catalyst_push_up_in.xml"
+    },
+    {
+        "merged": "/Users/gregorygl/workspace/react-native/qatestlab/LabArchives/node_modules/react-native-cookies/android/build/intermediates/res/merged/debug/anim/abc_fade_in.xml",
+        "source": "/Users/gregorygl/.android/build-cache/187075ca6c2d62d7ef5960a669f442657e67703c/output/res/anim/abc_fade_in.xml"
+    },
+    {
+        "merged": "/Users/gregorygl/workspace/react-native/qatestlab/LabArchives/node_modules/react-native-cookies/android/build/intermediates/res/merged/debug/anim/slide_up.xml",
+        "source": "/Users/gregorygl/.android/build-cache/0475d79c4912b442c1777d746be0973c7ff448dc/output/res/anim/slide_up.xml"
+    },
+    {
+        "merged": "/Users/gregorygl/workspace/react-native/qatestlab/LabArchives/node_modules/react-native-cookies/android/build/intermediates/res/merged/debug/anim/abc_slide_in_top.xml",
+        "source": "/Users/gregorygl/.android/build-cache/187075ca6c2d62d7ef5960a669f442657e67703c/output/res/anim/abc_slide_in_top.xml"
+    },
+    {
+        "merged": "/Users/gregorygl/workspace/react-native/qatestlab/LabArchives/node_modules/react-native-cookies/android/build/intermediates/res/merged/debug/anim/abc_slide_out_top.xml",
+        "source": "/Users/gregorygl/.android/build-cache/187075ca6c2d62d7ef5960a669f442657e67703c/output/res/anim/abc_slide_out_top.xml"
+    },
+    {
+        "merged": "/Users/gregorygl/workspace/react-native/qatestlab/LabArchives/node_modules/react-native-cookies/android/build/intermediates/res/merged/debug/anim/abc_slide_out_bottom.xml",
+        "source": "/Users/gregorygl/.android/build-cache/187075ca6c2d62d7ef5960a669f442657e67703c/output/res/anim/abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "/Users/gregorygl/workspace/react-native/qatestlab/LabArchives/node_modules/react-native-cookies/android/build/intermediates/res/merged/debug/anim/slide_down.xml",
+        "source": "/Users/gregorygl/.android/build-cache/0475d79c4912b442c1777d746be0973c7ff448dc/output/res/anim/slide_down.xml"
+    },
+    {
+        "merged": "/Users/gregorygl/workspace/react-native/qatestlab/LabArchives/node_modules/react-native-cookies/android/build/intermediates/res/merged/debug/anim/abc_grow_fade_in_from_bottom.xml",
+        "source": "/Users/gregorygl/.android/build-cache/187075ca6c2d62d7ef5960a669f442657e67703c/output/res/anim/abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "/Users/gregorygl/workspace/react-native/qatestlab/LabArchives/node_modules/react-native-cookies/android/build/intermediates/res/merged/debug/anim/catalyst_push_up_out.xml",
+        "source": "/Users/gregorygl/.android/build-cache/0475d79c4912b442c1777d746be0973c7ff448dc/output/res/anim/catalyst_push_up_out.xml"
+    },
+    {
+        "merged": "/Users/gregorygl/workspace/react-native/qatestlab/LabArchives/node_modules/react-native-cookies/android/build/intermediates/res/merged/debug/anim/abc_popup_enter.xml",
+        "source": "/Users/gregorygl/.android/build-cache/187075ca6c2d62d7ef5960a669f442657e67703c/output/res/anim/abc_popup_enter.xml"
+    },
+    {
+        "merged": "/Users/gregorygl/workspace/react-native/qatestlab/LabArchives/node_modules/react-native-cookies/android/build/intermediates/res/merged/debug/anim/abc_popup_exit.xml",
+        "source": "/Users/gregorygl/.android/build-cache/187075ca6c2d62d7ef5960a669f442657e67703c/output/res/anim/abc_popup_exit.xml"
+    }
+]

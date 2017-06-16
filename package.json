@@ -1,0 +1,16 @@
+{
+  "dependencies": {
+    "invariant": "^2.1.0"
+  },
+  "description": "Cookie manager for react native",
+  "devDependencies": {},
+  "directories": {},
+  "license": "MIT",
+  "main": "index.js",
+  "name": "cookies",
+  "nativePackage": true,
+  "optionalDependencies": {},
+  "readme": "ERROR: No README data found!",
+  "scripts": {},
+  "version": "1.0.0"
+}
